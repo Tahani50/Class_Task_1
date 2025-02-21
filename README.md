@@ -1,0 +1,2 @@
+TypeScript Class Task
+This project demonstrates core TypeScript concepts through practical coding exercises. It covers fundamental topics such as type annotations, functions, interfaces, classes, generics, and asynchronous operations using async/await. The tasks include utility functions, object-oriented programming with classes, data fetching from an API, and type-safe implementations, providing a comprehensive overview of TypeScript's capabilities in real-world scenarios.
